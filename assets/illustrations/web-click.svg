@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract web interaction illustration</title>
+  <desc id="desc">A stylised pointer clicking a button on a web page, using Three AM blue, lime, coral and deep green.</desc>
+  <rect width="1200" height="900" fill="#3498db"/>
+  <circle cx="1030" cy="110" r="260" fill="#d5f056" opacity=".95"/>
+  <circle cx="105" cy="790" r="220" fill="#9d8cf4"/>
+  <g transform="translate(150 150) rotate(-4 450 300)">
+    <rect width="760" height="510" rx="28" fill="#fffefa"/>
+    <rect x="0" y="0" width="760" height="78" rx="28" fill="#15231e"/>
+    <rect x="0" y="54" width="760" height="24" fill="#15231e"/>
+    <circle cx="47" cy="39" r="10" fill="#fa7357"/>
+    <circle cx="78" cy="39" r="10" fill="#d5f056"/>
+    <circle cx="109" cy="39" r="10" fill="#9d8cf4"/>
+    <rect x="53" y="130" width="326" height="34" rx="17" fill="#15231e"/>
+    <rect x="53" y="182" width="224" height="18" rx="9" fill="#c9d5d0"/>
+    <rect x="53" y="214" width="282" height="18" rx="9" fill="#c9d5d0"/>
+    <rect x="53" y="280" width="220" height="82" rx="41" fill="#d5f056"/>
+    <path d="M120 321h86" stroke="#15231e" stroke-width="12" stroke-linecap="round"/>
+    <path d="m192 294 29 27-29 27" fill="none" stroke="#15231e" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="451" y="130" width="252" height="260" rx="22" fill="#fa7357"/>
+    <circle cx="577" cy="260" r="74" fill="#fffefa" opacity=".95"/>
+    <path d="M558 218v82m-41-41h82" stroke="#15231e" stroke-width="14" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(655 470) rotate(-14)">
+    <path d="M22 0 0 226l70-54 62 118 75-37-63-118 82-13L22 0Z" fill="#15231e" stroke="#fffefa" stroke-width="16" stroke-linejoin="round"/>
+    <path d="m112 181 48 89" stroke="#fa7357" stroke-width="16" stroke-linecap="round"/>
+  </g>
+  <g fill="none" stroke="#15231e" stroke-linecap="round" stroke-width="15">
+    <path d="m872 472 35-59"/><path d="m937 511 68-12"/><path d="m836 428-12-67"/>
+  </g>
+  <text x="74" y="824" fill="#fffefa" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="4">WEB SOLUTIONS</text>
+</svg>
